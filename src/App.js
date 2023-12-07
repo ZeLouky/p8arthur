@@ -23,3 +23,6 @@ function App() {
 }
 
 export default App;
+
+import Header from './layouts/Header/Header';
+import Footer from './layouts/Footer/Footer';
